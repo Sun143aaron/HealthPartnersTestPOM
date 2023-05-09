@@ -1,7 +1,7 @@
 
 # Partnerize UI Acceptance Tests
 
-The project features an end-to-end journey for popular products, implemented using the BDD Cucumber Mapping framework and the Mapping concept.
+The project features an end-to-end journey for popular products, implemented using the POM framework.
 
 ## Setting up the project
 
@@ -12,8 +12,8 @@ Also get access for framework via Github link:
 
  https://github.com/Sun143aaron/PartnerizeTestPOM.git
 
-Please, ensure you have 'Node Js' and cypress installed in your local machine.
-Also require Java-8 for Allure report
+
+"Please ensure that you have installed Node.js and Cypress on your local machine before running the project. Additionally, Java-8 is required to generate Allure reports."
 
 ## Installation & Plugin:
 
@@ -26,24 +26,24 @@ The Installation guide for Allure-report can be found here: https://github.com/S
 
 ## Allure-report command (You can find detail in package.json)
 
- - Open the terminal and run following step by step for the first time
-    1. npm run runHeaded  ( Run all the tst cases)
-    2. npm run allure:report (Generate allure-results folder at project level)
-    3. npm run launchReport (Generate allure-report folder at project level)
+ - Open the terminal and follow these steps for the first time:
+1. Run the command "npm run runHeaded" to execute all the test cases.
+2. Run the command "npm run allure:report" to generate the allure-results folder at the project level.
+3. Run the command "npm run launchReport" to generate the allure-report folder at the project level.
 
- - After finished above step we need to run below code everytime before follow step 1-3
-    * npm run pretest
+After finishing the above steps, you need to run the following command every time before following steps 1-3:
+* Run the command "npm run pretest".
 
-## Execution Recording/Screenshots: 
-Video/Screenshots of execution could be found at the directory below on your machine:
+## Execution Recording/Screenshots:
+Videos and screenshots of the execution can be found in the directories below on your machine:
         ./cypress/videos
         ./cypress/screenshots
 
 ## Contributors:
-Sunil
+ Sunil Baria
 
 # Note:
 
-Any issue with the project please reach me out, happy to help.
+If you encounter any issues with the project, please don't hesitate to contact me. I'll be more than happy to assist you.
 
 ###########################################################################
