@@ -53,7 +53,7 @@ describe('Partnerize Acceptance Test', () => {
     productpage.assertCartText();
 
     
-    // procced to checkout
+    // procced to checkout button
     productpage.checkoutButton
     
     // Delete added product from cart
