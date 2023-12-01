@@ -15,6 +15,10 @@
 Cypress.Commands.add('goToURL', () => {
     cy.visit('https://prestashop.ryviushop.com/');
 });
+Cypress.Commands.add('amazonUrl',()=>{
+
+    cy.visit("https://www.amazon.co.uk/")
+});
 //
 // -- This is a child command --
 // Cypress.Commands.add('drag', { prevSubject: 'element'}, (subject, options) => { ... })

@@ -1,7 +1,7 @@
 
-# Partnerize UI Acceptance Tests
+# Health Partners Take Home Test
 
-The project features an end-to-end journey for popular products, implemented using the POM framework.
+The project features an end-to-end journey for different products on Amazon, implemented using the POM framework.
 
 ## Setting up the project
 
@@ -10,10 +10,10 @@ The project features an end-to-end journey for popular products, implemented usi
 Download and unzip the project
 Also get access for framework via Github link:
 
- https://github.com/Sun143aaron/PartnerizeTestPOM.git
+https://github.com/Sun143aaron/HealthPartners_Test-POM
 
 
-"Please ensure that you have installed Node.js and Cypress on your local machine before running the project. Additionally, Java-8 is required to generate Allure reports."
+"Please ensure that you have installed Node.js and Cypress on your local machine before running the project. Additionally, Java-11 is required to generate Allure reports."
 
 ## Installation & Plugin:
 

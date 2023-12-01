@@ -1,5 +1,8 @@
 {
-  "name": "Using fixtures to represent data",
-  "email": "hello@cypress.io",
-  "body": "Fixtures are a great way to mock data for responses to routes"
+  
+  "topMenu": "Today's Deals",
+  "searchProduct": "All-new Amazon Fire TV Stick 4K Max",
+  "Option": "Fire Tablets",
+  "Option1": "Fire Tablets for kids"
+
 }

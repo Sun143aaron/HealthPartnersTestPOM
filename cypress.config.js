@@ -21,6 +21,7 @@ module.exports = defineConfig({
       
       "retries": 2, 
       "chromeWebSecurity": false,
+      experimentalOriginDependencies: true,
       "specPattern": [
       "cypress/e2e/**.js",
       "**/*.feature"
